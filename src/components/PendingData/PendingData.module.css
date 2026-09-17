@@ -1,0 +1,7 @@
+.pending {
+  color: var(--color-gray);
+  font-style: italic;
+  background-color: var(--color-gray-light);
+  padding: 2px 8px;
+  border-radius: 4px;
+}

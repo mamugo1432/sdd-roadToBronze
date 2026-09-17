@@ -1,0 +1,26 @@
+:root {
+  --color-yellow: #FEBD09;
+  --color-white: #FFFFFF;
+  --color-red: #C8102E;
+  --color-black: #1A1A1A;
+  --color-gray-light: #F5F5F5;
+  --color-gray: #666666;
+  --color-green: #26962b;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  color: var(--color-black);
+  background-color: var(--color-white);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

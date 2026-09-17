@@ -1,0 +1,58 @@
+.card {
+  border: none;
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--color-white);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+}
+
+.photoContainer {
+  width: 100%;
+  aspect-ratio: 1;
+  background: linear-gradient(135deg, var(--color-gray-light) 0%, #e0e0e0 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.photoPlaceholder {
+  color: var(--color-gray);
+  font-style: italic;
+}
+
+.info {
+  padding: 1.25rem;
+}
+
+.name {
+  font-size: 1.15rem;
+  margin-bottom: 0.5rem;
+  color: var(--color-red);
+  font-weight: 700;
+}
+
+.position,
+.club {
+  font-size: 0.85rem;
+  color: var(--color-gray);
+  margin-bottom: 0.25rem;
+}
+
+.note {
+  font-size: 0.85rem;
+  margin-top: 0.75rem;
+  line-height: 1.5;
+  color: var(--color-black);
+}

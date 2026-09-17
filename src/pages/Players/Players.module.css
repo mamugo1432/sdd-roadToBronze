@@ -1,0 +1,45 @@
+.players {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.players h1 {
+  color: var(--color-red);
+  margin-bottom: 0.5rem;
+  font-weight: 800;
+  font-size: 2rem;
+}
+
+.subtitle {
+  color: var(--color-gray);
+  font-size: 1.05rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--color-gray-light);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+/* Tablet: ≤768px */
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+}
+
+/* Mobile: ≤480px */
+@media (max-width: 480px) {
+  .players h1 {
+    font-size: 1.5rem;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}

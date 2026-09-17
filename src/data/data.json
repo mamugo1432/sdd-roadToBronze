@@ -1,0 +1,167 @@
+{
+  "team": "España",
+  "year": 2026,
+  "competition": "Copa del Mundo FIBA",
+  "hostCity": "Berlín",
+  "result": "Medalla de bronce",
+  "matches": [
+    {
+      "id": "group-1",
+      "stage": "group",
+      "date": "2026-09-04",
+      "opponent": "Alemania",
+      "scoreSpain": 83,
+      "scoreOpponent": 53,
+      "venue": "Berlin Arena",
+      "source": "https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-2026/games/128117-ESP-GER"
+    },
+    {
+      "id": "group-2",
+      "stage": "group",
+      "date": "2026-09-05",
+      "opponent": "Mali",
+      "scoreSpain": 73,
+      "scoreOpponent": 82,
+      "venue": "Max-Schmeling-Halle",
+      "source": "https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-2026/games/128119-MLI-ESP"
+    },
+    {
+      "id": "group-3",
+      "stage": "group",
+      "date": "2026-09-07",
+      "opponent": "Japón",
+      "scoreSpain": 79,
+      "scoreOpponent": 59,
+      "venue": "Max-Schmeling-Halle",
+      "source": "https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-2026/games/128120-JPN-ESP"
+    },
+    {
+      "id": "quarterfinal-1",
+      "stage": "quarterfinal",
+      "date": "2026-09-10",
+      "opponent": "Australia",
+      "scoreSpain": 89,
+      "scoreOpponent": 66,
+      "venue": "Berlin Arena",
+      "source": "https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-2026/games/128148-AUS-ESP"
+    },
+    {
+      "id": "semifinal-1",
+      "stage": "semifinal",
+      "date": "2026-09-12",
+      "opponent": "Estados Unidos",
+      "scoreSpain": 66,
+      "scoreOpponent": 76,
+      "venue": "Berlin Arena",
+      "source": "https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-2026/games/128152-ESP-USA"
+    },
+    {
+      "id": "bronze-1",
+      "stage": "bronze",
+      "date": "2026-09-13",
+      "opponent": "Alemania",
+      "scoreSpain": 81,
+      "scoreOpponent": 58,
+      "venue": "Berlin Arena",
+      "source": "https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-2026/games/128154-ESP-GER"
+    }
+  ],
+  "roster": [
+    {
+      "id": "player-1",
+      "name": "Elena Buenavida",
+      "position": "Base",
+      "club": "Valencia Basket",
+      "photo":"https://imgs.search.brave.com/e3I36s8aAoKUR_jFacdOq3_0RlaC4PNECekqjwoH2nY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dmFsZW5jaWFiYXNr/ZXQuY29tL3B1Ymxp/Yy9JbWFnZS8yMDI1/LzMvNjE3MTgxNzkx/ODg3LTJ4M19FeHRy/YUdyYW5kZS5qcGc",
+      "note": "Jugadora joven con gran potencial, aporta velocidad y visión de juego desde la posición de base."
+    },
+    {
+      "id": "player-2",
+      "name": "Mariona Ortiz",
+      "position": "Base",
+      "club": "Basket Zaragoza",
+      "photo":"https://imgs.search.brave.com/q62VxcfjpTpqFAl0nRJfp1G4NwYZLWZ4SyFLKPyIANM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4t/aW1nLnN0YXRpY3p6/LmNvbS9pbWcvam9n/YWRvcmVzL25ldy80/Ny84MS82MDQ3ODFf/bWFyaW9uYV9vcnRp/el8yMDI1MDYxMTE0/NTY0Ny5wbmc",
+      "note": "Veterana de la selección con gran experiencia, lidera el juego colectivo y dirige la defensa española."
+    },
+    {
+      "id": "player-3",
+      "name": "Maite Cazorla",
+      "position": "Base",
+      "club": "USK Praha",
+      "photo":"https://imgs.search.brave.com/gaXD37uIvmAJiVY78pytfouzL-n-9zi6jlOSgBS6Pdg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/d25iYS5jb20vaGVh/ZHNob3RzL3duYmEv/bGF0ZXN0LzEwNDB4/NzYwLzE2Mjk1Njku/cG5n",
+      "note": "Base experimentada que aporta equilibrio ofensivo y defensivo, clave en los momentos decisivos del torneo."
+    },
+    {
+      "id": "player-4",
+      "name": "Alba Torrens",
+      "position": "Alero",
+      "club": "AzulMarino Palma",
+      "photo":"https://imgs.search.brave.com/fsR6z2Yyh4hXF9K2Ve-dJWkQyVAAh52KB4KOdAA0_3s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9lc3Rh/dGljb3MtY2RuLnBy/ZW5zYWliZXJpY2Eu/ZXMvY2xpcC9lY2Yw/MTcwZS0yOWJhLTQ5/NzYtYWUzYi03NGIy/NGM2MzM3NGJfMTYt/OS1hc3BlY3QtcmF0/aW9fZGVmYXVsdF8w/LmpwZw",
+      "note": "Capitana del equipo y leyenda del baloncesto español, con más de trescientos partidos internacionales jugados."
+    },
+    {
+      "id": "player-5",
+      "name": "Helena Pueyo",
+      "position": "Alero",
+      "photo":"https://imgs.search.brave.com/dm4SGbkoaEaGFYmoJTFhEu07p4FZAbvzDqx2SehOtfU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMw/OTQ5NTk5My9lcy9m/b3RvL3Nhbi1hbnRv/bmlvLXRleGFzLWhl/bGVuYS1wdWV5by1v/Zi10aGUtYXJpem9u/YS13aWxkY2F0cy1k/aXJlY3RzLWhlci10/ZWFtbWF0ZXMtaW4t/dGhlLWZpcnN0LWhh/bGYuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPWFHRHpreTho/YTQ3TlRoQWpaOGRr/VHFYaHV1UlVYanM2/TzBpZXVXcGQ3Qk09",
+      "club": "Valencia Basket",
+      "note": "Alero versátil con capacidad anotadora, aporta equilibrio entre la defensa y el ataque del equipo."
+    },
+    {
+      "id": "player-6",
+      "name": "María Conde",
+      "photo":"https://imgs.search.brave.com/lowg6X3CH0GFgU0ZD67U3X1lDZE6k4zlEhodAPmimTA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/d25iYS5jb20vaGVh/ZHNob3RzL3duYmEv/bGF0ZXN0LzEwNDB4/NzYwLzE2Mjk1NzYu/cG5n",
+      "position": "Alero",
+      "club": "Toronto Tempo",
+      "note": "Alero con experiencia internacional en la WNBA, aporta versatilidad y capacidad de anotación desde varias posiciones."
+    },
+    {
+      "id": "player-7",
+      "name": "Awa Fam",
+      "position": "Pívot",
+      "photo":"https://imgs.search.brave.com/hEUpIpiRCeusIvFSmrK8zJBncUsVmGcSy2N2K0wunwE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/d25iYS5jb20vaGVh/ZHNob3RzL3duYmEv/bGF0ZXN0LzEwNDB4/NzYwLzE2NDM0NDMu/cG5n",
+      "club": "Seattle Storm",
+      "note": "Estrella emergente con solo veinte años, dominante en el rebote y la pintura con un promedio alto."
+    },
+    {
+      "id": "player-8",
+      "name": "Raquel Carrera",
+      "photo":"https://imgs.search.brave.com/V3-sLfs8_43vnagf__YXJFsC-X_-6cnSxyNyY60Xn4U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/d25iYS5jb20vc2l0/ZXMvNC8yMDIxLzA0/L05ldy5qcGc",
+      "position": "Ala-Pívot",
+      "club": "New York Liberty",
+      "note": "Ala-pívot física que domina el rebote ofensivo y aporta puntos importantes en la zona española."
+    },
+    {
+      "id": "player-9",
+      "name": "Megan DiLeo",
+      "position": "Pívot",
+      "photo":"https://imgs.search.brave.com/4qnm82jBZM_tuFVH6MOXxzBwNIOtlKqaxrGevmhPXfg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/d25iYS5jb20vaGVh/ZHNob3RzL3duYmEv/bGF0ZXN0LzEwNDB4/NzYwLzE2Mjk0ODQu/cG5n",
+      "club": "Portland Fire",
+      "note": "Pívot estadounidense con pasaporte español, aporta presencia interior y gran experiencia acumulada en la WNBA."
+    },
+    {
+      "id": "player-10",
+      "name": "Alicia Flórez",
+      "position": "Escolta",
+      "photo":"https://imgs.search.brave.com/cLucEED6GUUu2QnFq5vXjFct8pFomV66PgpgUWi3aJs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/d25iYS5jb20vaGVh/ZHNob3RzL3duYmEv/bGF0ZXN0LzEwNDB4/NzYwLzE2NDM2NDQu/cG5n",
+      "club": "Valencia Basket",
+      "note": "Joven escolta que destaca por su capacidad anotadora y su energía en los minutos que disputa."
+    },
+    {
+      "id": "player-11",
+      "name": "Paula Ginzo",
+      "position": "Pívot",
+      "photo":"https://imgs.search.brave.com/YzuvCywaSsb29XKaHpKn03WnsxLjnwq9gAB-velI4vc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4t/aW1nLnN0YXRpY3p6/LmNvbS9pbWcvam9n/YWRvcmVzL25ldy80/OC8zOS84NzQ4Mzlf/cGF1bGFfZ2luem9f/MjAyNTA2MTExNjEw/NTAucG5n",
+      "club": "Žabiny Brno",
+      "note": "Pívot con buena técnica y rango de tiro, aporta versatilidad desde la posición de cinco."
+    },
+    {
+      "id": "player-12",
+      "name": "Iyana Martín",
+      "position": "Base",
+      "photo":"https://imgs.search.brave.com/weZSA4HMzqG5NB-QWqgWq221Sxg2HJOZo8wObsWmAdE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9vYmpl/dG9zLXhsay5lc3Rh/dGljb3MtbWFyY2Eu/Y29tL3VwbG9hZHMv/MjAyNS8wMi8wNy82/N2E1ZmI1MTIxM2E2/LmpwZWc",
+      "club": "Spar Girona",
+      "note": "Revelación del torneo con veinte años, máxima anotadora de España y estrella emergente del baloncesto mundial."
+    }
+  ]
+}
