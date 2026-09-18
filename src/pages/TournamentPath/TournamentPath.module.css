@@ -6,7 +6,7 @@
 
 .container h1 {
   color: var(--color-red);
-  margin: 1rem 0rem;
+  margin: 0rem 0rem 1.5rem 0rem;
   font-weight: 800;
   font-size: 2rem;
 }
