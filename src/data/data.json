@@ -79,7 +79,7 @@
       "id": "player-2",
       "name": "Mariona Ortiz",
       "position": "Base",
-      "club": "Basket Zaragoza",
+      "club": "Casademont Zaragoza",
       "photo":"https://imgs.search.brave.com/q62VxcfjpTpqFAl0nRJfp1G4NwYZLWZ4SyFLKPyIANM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4t/aW1nLnN0YXRpY3p6/LmNvbS9pbWcvam9n/YWRvcmVzL25ldy80/Ny84MS82MDQ3ODFf/bWFyaW9uYV9vcnRp/el8yMDI1MDYxMTE0/NTY0Ny5wbmc",
       "note": "Veterana de la selección con gran experiencia, lidera el juego colectivo y dirige la defensa española."
     },
@@ -95,7 +95,7 @@
       "id": "player-4",
       "name": "Alba Torrens",
       "position": "Alero",
-      "club": "AzulMarino Palma",
+      "club": "AzulMarino Mallorca Palma",
       "photo":"https://imgs.search.brave.com/fsR6z2Yyh4hXF9K2Ve-dJWkQyVAAh52KB4KOdAA0_3s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9lc3Rh/dGljb3MtY2RuLnBy/ZW5zYWliZXJpY2Eu/ZXMvY2xpcC9lY2Yw/MTcwZS0yOWJhLTQ5/NzYtYWUzYi03NGIy/NGM2MzM3NGJfMTYt/OS1hc3BlY3QtcmF0/aW9fZGVmYXVsdF8w/LmpwZw",
       "note": "Capitana del equipo y leyenda del baloncesto español, con más de trescientos partidos internacionales jugados."
     },
@@ -133,7 +133,7 @@
     },
     {
       "id": "player-9",
-      "name": "Megan DiLeo",
+      "name": "Megan Gustafson",
       "position": "Pívot",
       "photo":"https://imgs.search.brave.com/4qnm82jBZM_tuFVH6MOXxzBwNIOtlKqaxrGevmhPXfg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/d25iYS5jb20vaGVh/ZHNob3RzL3duYmEv/bGF0ZXN0LzEwNDB4/NzYwLzE2Mjk0ODQu/cG5n",
       "club": "Portland Fire",
